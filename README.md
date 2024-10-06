@@ -1,4 +1,5 @@
 # Githublerning
 My first step toward github
 <br>
-Author Antish Kumar Yadav.
+Antish Kumar Yadav doing btech cse.
+
